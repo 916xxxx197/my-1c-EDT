@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="35588408-c351-408f-992e-9439f64d6710">
+  <producedTypes>
+    <managerType typeId="9fd95748-0348-43c1-8813-044769eae69c" valueTypeId="6f4151eb-64e0-493f-a204-905107a981f0"/>
+    <valueManagerType typeId="37f8d21a-b0b7-4ec1-8238-d265590cb263" valueTypeId="9b1fd9dd-9118-4675-832a-cf4cedc48b14"/>
+  </producedTypes>
+  <name>Константа</name>
+  <synonym>
+    <key>ru</key>
+    <value>Константа</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
